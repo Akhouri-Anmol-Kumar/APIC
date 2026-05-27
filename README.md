@@ -42,7 +42,7 @@ APIC handles a wide array of image formats seamlessly:
 
 ---
 
-## 🤔 Why use APIC when major apps exist? (The Gen-Z Reality Check)
+## 🤔 Why use APIC when major apps exist? 
 
 Look, we know Photoshop, GIMP, and Canva exist. But let’s be real for a second:
 
@@ -55,9 +55,8 @@ Look, we know Photoshop, GIMP, and Canva exist. But let’s be real for a second
 
 ## 👑 Developed By
 
-- **Lead Developer & Tech Visionary:** Akhouri Anmol Kumar[cite: 1]
+- **Lead Developer & Tech Visionary:** Akhouri Anmol Kumar
 - **Title:** Indian Tech Analyst and Developer
-- **Organization:** Akhouri Anmol Kumar[cite: 1]
-- **Application Version:** 1.0.0[cite: 1]
+- **Application Version:** 1.0.0
 
 If this app saved your RAM or your time, drop a ⭐ on this repository!
