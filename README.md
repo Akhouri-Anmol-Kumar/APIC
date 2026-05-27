@@ -40,13 +40,24 @@ APIC handles a wide array of image formats seamlessly:
 
 ---
 
-Why to choose this?
-ans- Across all the major image editing apps, Apic carries smooth UI, minimal and most important thing which makes this app diffrent from others is its light-weight body consuming less RAM, CPU and making your device feel happy not burden anymore...
+---
 
-Developer(🧑‍💻)-----
+## 🤔 Why use APIC when major apps exist? (The Gen-Z Reality Check)
 
-Developed by-Akhouri Anmol Kumar 
-Indian tech analyst & Developer
+Look, we know Photoshop, GIMP, and Canva exist. But let’s be real for a second:
 
-🔥🔥APIC🔥🔥
-Absolute king 👑 of image editing ☠️
+- **No Bloatware, Straight Vibes:** Major apps take 5 business days to load and eat your RAM for breakfast. APIC opens instantly and is light AF.
+- **Zero Subscriptions / No "Pay to Breathe":** No premium paywalls, no annoying ads, and no corporate greed. It's 100% free and open-source.
+- **Smart Routing is a Cheat Code:** Photoshop makes you create a whole project just to crop a meme. APIC is built different—drop 1 file, boom, you're editing. Drop 5 files, boom, you're batch converting[cite: 1]. It just *knows*.
+- **Privacy Core:** Your data isn't being uploaded to some sketchy cloud to train random AI models. Everything happens locally on your machine. Pure privacy.
+
+---
+
+## 👑 Developed By
+
+- **Lead Developer & Tech Visionary:** Akhouri Anmol Kumar[cite: 1]
+- **Title:** Indian Tech Analyst and Developer
+- **Organization:** Akhouri Anmol Kumar[cite: 1]
+- **Application Version:** 1.0.0[cite: 1]
+
+If this app saved your RAM or your time, drop a ⭐ on this repository!
