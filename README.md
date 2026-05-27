@@ -1,5 +1,22 @@
 # APIC - Advanced Image Processing Center 📸
 
+[![Download Standalone App](https://img.shields.io/badge/Download-APIC_v1.0.0_(Executable)-blue?style=for-the-badge&logo=windows)](https://github.com/Akhouri-Anmol-Kumar/APIC/releases/download/APIC/APIC.zip)
+
+> **⚡ Zero-Effort Launch:** Don't want to dig through the repository files or hunt for the Releases tab? Click the shiny blue button above to instantly grab the ready-to-run standalone build package!
+
+---
+
+## 🚀 Launch APIC in 2 Seconds (Terminal Shortcut)
+
+For developers who want to run it straight from the source code without manually cloning, navigating folders, or setting up libraries step-by-step—just copy, paste, and run this single chained command in your Terminal/CMD:
+
+```bash
+git clone [https://github.com/Akhouri-Anmol-Kumar/APIC.git](https://github.com/Akhouri-Anmol-Kumar/APIC.git) && cd APIC && pip install PyQt6 && python main.py
+---------------------
+🔥☠️👑😈🔥🔥🔥☠️👑
+
+# APIC - Advanced Image Processing Center 📸
+
 APIC (Advanced Image Processing Center) is a modern, modular, and high-performance desktop application built using Python and PyQt6. Designed with a sleek dark user interface, it provides a comprehensive suite of tools for image editing, bulk format conversion, optimization/compression, and smart searching. 
 
 With native drag-and-drop support, global keyboard shortcuts, and a responsive layout, APIC delivers a premium, seamless workflow for both casual users and power users.
