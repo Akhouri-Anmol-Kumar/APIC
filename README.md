@@ -1,6 +1,6 @@
 # APIC - Advanced Image Processing Center 📸
 
-[![Download Standalone App](https://img.shields.io/badge/Download-APIC_v1.0.0_(Executable)-blue?style=for-the-badge&logo=windows)](https://github.com/Akhouri-Anmol-Kumar/APIC/releases/download/APIC/APIC.zip)
+[![Download](https://img.shields.io/badge/⬇%20DOWNLOAD%20APIC-blue?style=for-the-badge&logoColor=white)](https://github.com/Akhouri-Anmol-Kumar/APIC/releases/download/APIC/APIC.zip)
 
 > **⚡ Zero-Effort Launch:** Don't want to dig through the repository files or hunt for the Releases tab? Click the shiny blue button above to instantly grab the ready-to-run standalone build package!
 
