@@ -1,79 +1,250 @@
-# APIC - Advanced Image Processing Center 📸
+# 🖼️ APIC
 
-[![Download](https://img.shields.io/badge/⬇%20DOWNLOAD%20APIC-blue?style=for-the-badge&logoColor=white)](https://github.com/Akhouri-Anmol-Kumar/APIC/releases/download/APIC/APIC.zip)
+### An Akhouri Systems Product
 
-> **⚡ Zero-Effort Launch:** Don't want to dig through the repository files or hunt for the Releases tab? Click the shiny blue button above to instantly grab the ready-to-run standalone build package!
+**Advanced Image Processing Center for Windows — Edit, Convert, Compress & Manage Images in one modern desktop application.**
+
+<p align="center">
+
+![Version](https://img.shields.io/badge/Version-v1.0-2ea44f?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge\&logo=windows)
+![Built With](https://img.shields.io/badge/Built%20With-Python%20%7C%20PyQt6-3776AB?style=for-the-badge\&logo=python)
+![Made in India](https://img.shields.io/badge/Made%20in-India-FF9933?style=for-the-badge)
+
+</p>
 
 ---
 
-## 🚀 Launch APIC in 2 Seconds (Terminal Shortcut)
+# ⚡ Zero-Effort Download
 
-For developers who want to run it straight from the source code without manually cloning, navigating folders, or setting up libraries step-by-step—just copy, paste, and run this single chained command in your Terminal/CMD:
+Don't want to clone the repository or browse the Releases page?
+
+Download the latest ready-to-run version with **one click**.
+
+<p align="center">
+
+<a href="https://github.com/Akhouri-Anmol-Kumar/APIC/releases/download/APIC/APIC.zip">
+<img src="https://img.shields.io/badge/⬇️%20Download%20Latest%20Release-28a745?style=for-the-badge" />
+</a>
+
+</p>
+
+---
+
+# 🚀 Why APIC?
+
+Most image software specializes in **one** task.
+
+* One edits images.
+* One converts formats.
+* Another compresses files.
+
+APIC combines everything into **one fast, modern Windows desktop application** designed for productivity.
+
+No unnecessary complexity.
+
+No switching between multiple applications.
+
+Just open, process, and export.
+
+---
+
+# ✨ Features
+
+## 🖼️ Image Editing
+
+* Open images instantly
+* Modern editing workspace
+* Smooth desktop experience
+
+---
+
+## 🔄 Image Conversion
+
+* Convert between popular image formats
+* Batch conversion support
+* High-speed processing
+
+---
+
+## 📦 Smart Compression
+
+* Reduce file size
+* Preserve visual quality
+* Faster sharing and storage
+
+---
+
+## 🔍 Image Search
+
+Quickly locate and organize images.
+
+---
+
+## ⚡ Productivity
+
+* Drag & Drop
+* Keyboard Shortcuts
+* Multi-file workflow
+* Clean Dark UI
+
+---
+
+# 🏗️ Built With
+
+* Python
+* PyQt6
+* Modular Architecture
+* Object-Oriented Design
+
+---
+
+# 📂 Project Structure
+
+```text
+APIC/
+│
+├── modules/
+│   ├── Home
+│   ├── Edit
+│   ├── Convert
+│   ├── Compress
+│   └── Search
+│
+├── themes/
+│
+├── assets/
+│
+└── main.py
+```
+
+---
+
+# 📸 Screenshots
+
+> Add screenshots here after every major update.
+
+| Home       | Edit       |
+| ---------- | ---------- |
+| Screenshot | Screenshot |
+
+| Convert    | Compress   |
+| ---------- | ---------- |
+| Screenshot | Screenshot |
+
+---
+
+# 🎯 Roadmap
+
+* AI Image Enhancement
+* Background Removal
+* Batch Editing
+* Metadata Editor
+* Image Filters
+* Performance Optimization
+* Additional Export Formats
+* Plugin Support
+
+---
+
+# ⚙️ Installation
+
+### Option 1 (Recommended)
+
+Click the **Download Latest Release** button above.
+
+Extract the ZIP.
+
+Run **APIC.exe**.
+
+No Python installation required.
+
+---
+
+### Option 2
+
+Clone the repository.
 
 ```bash
-git clone [https://github.com/Akhouri-Anmol-Kumar/APIC.git](https://github.com/Akhouri-Anmol-Kumar/APIC.git) && cd APIC && pip install PyQt6 && python main.py
----------------------
-🔥☠️👑😈🔥🔥🔥☠️👑
+git clone https://github.com/Akhouri-Anmol-Kumar/APIC.git
+```
 
-# APIC - Advanced Image Processing Center 📸
+Install dependencies.
 
-APIC (Advanced Image Processing Center) is a modern, modular, and high-performance desktop application built using Python and PyQt6. Designed with a sleek dark user interface, it provides a comprehensive suite of tools for image editing, bulk format conversion, optimization/compression, and smart searching. 
+```bash
+pip install -r requirements.txt
+```
 
-With native drag-and-drop support, global keyboard shortcuts, and a responsive layout, APIC delivers a premium, seamless workflow for both casual users and power users.
+Run
 
----
-
-## ✨ Features
-
-- **Modern Sidebar Navigation:** Clean, intuitive layout using custom widgets to effortlessly switch between workspace modes.
-- **Dedicated Editing Suite (`Edit Mode`):** Standalone environment tailored for individual image manipulation and enhancements.
-- **Batch Image Converter (`Convert Mode`):** Efficiently handle multiple files at once, migrating them across various formats.
-- **Smart Image Compressor (`Compress Mode`):** Reduce file sizes without compromising visual fidelity.
-- **Integrated Image Search (`Search Mode`):** Locate and organize your local media assets dynamically.
-- **Power-User Workflow:** Features full drag-and-drop loading alongside an automated routing system (Single file → Edit Mode, Multiple files → Convert Mode).
+```bash
+python main.py
+```
 
 ---
 
-## ⌨️ Global Keyboard Shortcuts
+# 💡 Why APIC?
 
-Boost your productivity with built-in hardware acceleration via shortcuts:
+✅ Modern Desktop UI
 
-| Shortcut | Action |
-| :--- | :--- |
-| `Ctrl + O` | Open File Dialog (Smart Routing) |
-| `Ctrl + 1` | Switch to **Home Screen** |
-| `Ctrl + 2` | Switch to **Edit Mode** |
-| `Ctrl + 3` | Switch to **Convert Mode** |
-| `Ctrl + 4` | Switch to **Compress Mode** |
-| `Ctrl + 5` | Switch to **Search Mode** |
-| `F1` | Open the **About Screen** |
+✅ Lightweight
 
----
+✅ Fast
 
-## 🛠️ Supported Formats
+✅ Offline
 
-APIC handles a wide array of image formats seamlessly:
-`*.png`, `*.jpg`, `*.jpeg`, `*.webp`, `*.bmp`, `*.tiff`, `*.tif`, `*.gif`, `*.ico`, `*.heic`, `*.avif`
+✅ No Ads
+
+✅ Built for Windows
+
+✅ Modular Architecture
 
 ---
 
+# 📈 Current Focus
+
+APIC is under active development.
+
+The current focus is improving:
+
+* User Experience
+* Performance
+* Image Processing
+* Stability
+* AI-powered Features
+
 ---
 
-## 🤔 Why use APIC when major apps exist? 
+# 🤝 Contributing
 
-Look, we know Photoshop, GIMP, and Canva exist. But let’s be real for a second:
+Issues, suggestions and feature requests are always welcome.
 
-- **No Bloatware, Straight Vibes:** Major apps take 5 business days to load and eat your RAM for breakfast. APIC opens instantly and is light AF.
-- **Zero Subscriptions / No "Pay to Breathe":** No premium paywalls, no annoying ads, and no corporate greed. It's 100% free and open-source.
-- **Smart Routing is a Cheat Code:** Photoshop makes you create a whole project just to crop a meme. APIC is built different—drop 1 file, boom, you're editing. Drop 5 files, boom, you're batch converting[cite: 1]. It just *knows*.
-- **Privacy Core:** Your data isn't being uploaded to some sketchy cloud to train random AI models. Everything happens locally on your machine. Pure privacy.
+If you discover a bug or have an idea that could improve APIC, feel free to open an Issue.
 
 ---
 
-## 👑 Developed By
+# ⭐ Support the Project
 
-- **Lead Developer & Tech Visionary:** Akhouri Anmol Kumar
-- **Title:** Indian Tech Analyst and Developer
-- **Application Version:** 1.0.0
+If APIC helps you, consider giving the repository a ⭐.
 
-If this app saved your RAM or your time, drop a ⭐ on this repository!
+It helps more people discover the project and motivates future development.
+
+---
+
+# 👨‍💻 Developer
+
+**Akhouri Anmol Kumar**
+
+Founder — **Akhouri Systems**
+
+Building modern desktop software for Windows.
+
+---
+
+<p align="center">
+
+### ⭐ If you like APIC, don't forget to Star the repository!
+
+Made with ❤️ in India 🇮🇳
+
+</p>
