@@ -1,117 +1,130 @@
-# 🖼️ APIC
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a1a&height=160&section=header&text=APIC&fontSize=60&fontColor=C9A84C&fontAlignY=45&animation=fadeIn&desc=Advanced%20Image%20Processing%20Center&descAlignY=68&descSize=16&descColor=F0ECE0" width="100%" />
 
 ### An Akhouri Systems Product
-
-**Advanced Image Processing Center for Windows — Edit, Convert, Compress & Manage Images in one modern desktop application.**
-
-<p align="center">
+**Edit, Convert, Compress & Manage Images — all in one fast, modern Windows desktop app.**
 
 ![Version](https://img.shields.io/badge/Version-v1.0-2ea44f?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge\&logo=windows)
-![Built With](https://img.shields.io/badge/Built%20With-Python%20%7C%20PyQt6-3776AB?style=for-the-badge\&logo=python)
+![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows)
+![Built With](https://img.shields.io/badge/Built%20With-Python%20%7C%20PyQt6-3776AB?style=for-the-badge&logo=python)
 ![Made in India](https://img.shields.io/badge/Made%20in-India-FF9933?style=for-the-badge)
+![Offline](https://img.shields.io/badge/100%25-Offline-black?style=for-the-badge)
 
-</p>
+<br>
+
+**[⬇️ Download Latest Release](https://github.com/Akhouri-Anmol-Kumar/APIC/releases/download/APIC/APIC.zip)** &nbsp;•&nbsp; **[⭐ Star this Repo](#)** &nbsp;•&nbsp; **[🐛 Report a Bug](../../issues)**
+
+</div>
 
 ---
 
-# ⚡ Zero-Effort Download
-
-Don't want to clone the repository or browse the Releases page?
-
-Download the latest ready-to-run version with **one click**.
+<h1 align="center">🎬 See It In Action</h1>
 
 <p align="center">
-
-<a href="https://github.com/Akhouri-Anmol-Kumar/APIC/releases/download/APIC/APIC.zip">
-<img src="https://img.shields.io/badge/⬇️%20Download%20Latest%20Release-28a745?style=for-the-badge" />
-</a>
-
+<img src="./assets/apic-demo.gif" width="90%" alt="APIC Demo — Edit, Convert, Compress, Search" />
 </p>
 
----
+<p align="center"><i>Real-time walkthrough — no cuts, no cloud, just APIC running locally.</i></p>
 
-# 🚀 Why APIC?
-
-Most image software specializes in **one** task.
-
-* One edits images.
-* One converts formats.
-* Another compresses files.
-
-APIC combines everything into **one fast, modern Windows desktop application** designed for productivity.
-
-No unnecessary complexity.
-
-No switching between multiple applications.
-
-Just open, process, and export.
+> 📌 **Note for repo owner:** GitHub also supports native `.mp4` embeds at full quality. Drag your `Screen_Recording.mp4` directly into this README file in the GitHub web editor (or into a new Issue, then copy the generated link) — GitHub will host it and give you a `user-images.githubusercontent.com` URL. Paste that URL on its own line and it renders as a real inline video player, better quality than a GIF.
 
 ---
 
-# ✨ Features
+<div align="center">
 
-## 🖼️ Image Editing
+## ⚡ Don't want to clone or browse Releases?
+### Download the latest ready-to-run version with **one click.**
 
-* Open images instantly
-* Modern editing workspace
-* Smooth desktop experience
+<a href="https://github.com/Akhouri-Anmol-Kumar/APIC/releases/download/APIC/APIC.zip">
+<img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20LATEST%20RELEASE-28a745?style=for-the-badge&logoColor=white" height="45"/>
+</a>
 
----
+*No Python install required. Extract → Run `APIC.exe` → Done.*
 
-## 🔄 Image Conversion
-
-* Convert between popular image formats
-* Batch conversion support
-* High-speed processing
+</div>
 
 ---
 
-## 📦 Smart Compression
+<h1 align="center">🚀 Why APIC?</h1>
 
-* Reduce file size
-* Preserve visual quality
-* Faster sharing and storage
+<div align="center">
 
----
+Most image software specializes in **one** task — one edits, one converts, another compresses.
+**APIC combines everything into a single fast, modern Windows app.**
 
-## 🔍 Image Search
+No unnecessary complexity. No switching between five tabs. Just open, process, export.
 
-Quickly locate and organize images.
+</div>
 
----
-
-## ⚡ Productivity
-
-* Drag & Drop
-* Keyboard Shortcuts
-* Multi-file workflow
-* Clean Dark UI
-
----
-
-# 🏗️ Built With
-
-* Python
-* PyQt6
-* Modular Architecture
-* Object-Oriented Design
+<table align="center">
+<tr>
+<td align="center" width="20%">🖊️<br><b>Edit</b><br><sub>Quick, no-fuss editing</sub></td>
+<td align="center" width="20%">🔄<br><b>Convert</b><br><sub>PNG, JPG, WEBP, HEIC, AVIF+</sub></td>
+<td align="center" width="20%">📦<br><b>Compress</b><br><sub>Smaller files, same quality</sub></td>
+<td align="center" width="20%">🔍<br><b>Search</b><br><sub>Find & organize fast</sub></td>
+<td align="center" width="20%">⚡<br><b>Batch</b><br><sub>Do it once, apply to all</sub></td>
+</tr>
+</table>
 
 ---
 
-# 📂 Project Structure
+<h1 align="center">✨ Features</h1>
+
+### 🖼️ Image Editing
+- Open images instantly, drag & drop supported
+- Modern editing workspace
+- Smooth, responsive desktop experience
+
+### 🔄 Image Conversion
+- Convert between **PNG · JPG · JPEG · WEBP · BMP · TIFF · GIF · ICO · HEIC · AVIF**
+- Batch conversion — convert an entire folder in one go
+- High-speed processing, no cloud round-trip
+
+### 📦 Smart Compression
+- Reduce file size significantly
+- Preserve visual quality
+- Faster sharing, less storage used
+
+### 🔍 Image Search
+- Quickly locate and organize images across folders
+
+### ⚡ Built for Productivity
+- Drag & Drop everywhere
+- Keyboard shortcuts
+- Multi-file workflow
+- Clean, distraction-free dark UI
+
+---
+
+<h1 align="center">🏗️ Built With</h1>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,vscode,git,github,windows&theme=dark" />
+</p>
+
+<div align="center">
+
+**Python** · **PyQt6** · Modular Architecture · Object-Oriented Design
+
+</div>
+
+---
+
+<h1 align="center">📂 Project Structure</h1>
 
 ```text
 APIC/
 │
 ├── modules/
-│   ├── Home
-│   ├── Edit
-│   ├── Convert
-│   ├── Compress
-│   └── Search
+│   ├── home_screen.py
+│   ├── edit_mode.py
+│   ├── convert_mode.py
+│   ├── compress_mode.py
+│   └── search_mode.py
 │
 ├── themes/
+│   └── dark_theme.py
 │
 ├── assets/
 │
@@ -120,131 +133,130 @@ APIC/
 
 ---
 
-# 📸 Screenshots
+<h1 align="center">📸 Screenshots</h1>
 
-> Add screenshots here after every major update.
+<div align="center">
 
-| Home       | Edit       |
-| ---------- | ---------- |
-| Screenshot | Screenshot |
+| Home | Edit |
+|:---:|:---:|
+| _Add screenshot_ | _Add screenshot_ |
 
-| Convert    | Compress   |
-| ---------- | ---------- |
-| Screenshot | Screenshot |
+| Convert | Compress |
+|:---:|:---:|
+| _Add screenshot_ | _Add screenshot_ |
 
----
+</div>
 
-# 🎯 Roadmap
-
-* AI Image Enhancement
-* Background Removal
-* Batch Editing
-* Metadata Editor
-* Image Filters
-* Performance Optimization
-* Additional Export Formats
-* Plugin Support
+> 💡 Tip: pull individual frames from `assets/apic-demo.gif` for clean, consistent screenshots instead of new manual captures.
 
 ---
 
-# ⚙️ Installation
+<h1 align="center">🎯 Roadmap</h1>
 
-### Option 1 (Recommended)
+<div align="center">
 
-Click the **Download Latest Release** button above.
+| Feature | Status |
+|---|---|
+| AI Image Enhancement | 🔜 Planned |
+| Background Removal | 🔜 Planned |
+| Batch Editing | 🔜 Planned |
+| Metadata Editor | 🔜 Planned |
+| Image Filters | 🔜 Planned |
+| Performance Optimization | 🚧 In Progress |
+| Additional Export Formats | 🔜 Planned |
+| Plugin Support | 🔜 Planned |
 
-Extract the ZIP.
+</div>
 
-Run **APIC.exe**.
+---
+
+<h1 align="center">⚙️ Installation</h1>
+
+### Option 1 — Recommended (no setup)
+1. Click **Download Latest Release** above
+2. Extract the ZIP
+3. Run **`APIC.exe`**
 
 No Python installation required.
 
----
-
-### Option 2
-
-Clone the repository.
-
+### Option 2 — Run from source
 ```bash
 git clone https://github.com/Akhouri-Anmol-Kumar/APIC.git
-```
-
-Install dependencies.
-
-```bash
+cd APIC
 pip install -r requirements.txt
-```
-
-Run
-
-```bash
 python main.py
 ```
 
 ---
 
-# 💡 Why APIC?
+<h1 align="center">💡 Why Developers & Users Pick APIC</h1>
 
-✅ Modern Desktop UI
-
-✅ Lightweight
-
-✅ Fast
-
-✅ Offline
-
-✅ No Ads
-
-✅ Built for Windows
-
-✅ Modular Architecture
-
----
-
-# 📈 Current Focus
-
-APIC is under active development.
-
-The current focus is improving:
-
-* User Experience
-* Performance
-* Image Processing
-* Stability
-* AI-powered Features
+<table align="center">
+<tr>
+<td>✅ Modern Desktop UI</td>
+<td>✅ Lightweight</td>
+<td>✅ Fast</td>
+</tr>
+<tr>
+<td>✅ 100% Offline</td>
+<td>✅ Zero Ads</td>
+<td>✅ Built for Windows</td>
+</tr>
+<tr>
+<td colspan="3" align="center">✅ Modular, Open Source Architecture</td>
+</tr>
+</table>
 
 ---
 
-# 🤝 Contributing
+<h1 align="center">📈 Current Focus</h1>
 
-Issues, suggestions and feature requests are always welcome.
+<div align="center">
 
-If you discover a bug or have an idea that could improve APIC, feel free to open an Issue.
+APIC is under **active development.** Current priorities:
 
----
+`User Experience` · `Performance` · `Image Processing Speed` · `Stability` · `AI-Powered Features`
 
-# ⭐ Support the Project
-
-If APIC helps you, consider giving the repository a ⭐.
-
-It helps more people discover the project and motivates future development.
+</div>
 
 ---
 
-# 👨‍💻 Developer
+<h1 align="center">🤝 Contributing</h1>
+
+<div align="center">
+
+Issues, suggestions, and feature requests are always welcome.
+Found a bug or have an idea? [Open an Issue](../../issues) — every report helps make APIC better.
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ Support the Project
+
+If APIC saved you time, **give the repo a star.** It helps more people discover the project and directly motivates future development.
+
+<a href="https://github.com/Akhouri-Anmol-Kumar/APIC">
+<img src="https://img.shields.io/github/stars/Akhouri-Anmol-Kumar/APIC?style=for-the-badge&color=C9A84C&logo=github" />
+</a>
+
+</div>
+
+---
+
+<h1 align="center">👨‍💻 Developer</h1>
+
+<div align="center">
 
 **Akhouri Anmol Kumar**
-
 Founder — **Akhouri Systems**
-
 Building modern desktop software for Windows.
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=C9A84C)](https://github.com/Akhouri-Anmol-Kumar)
+[![Dev.to](https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=C9A84C)](https://dev.to/akhourianmolkumar)
 
-<p align="center">
+</div>
 
-### ⭐ If you like APIC, don't forget to Star the repository!
-
-Made with ❤️ in India 🇮🇳
-
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0a0a0a&height=140&section=footer&text=Made%20with%20❤️%20in%20India&fontSize=20&fontColor=C9A84C&fontAlignY=75&animation=fadeIn" width="100%" />
