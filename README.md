@@ -13,6 +13,8 @@
 
 <br>
 
+<img width="600" height="306" alt="Image" src="https://github.com/user-attachments/assets/85f2f81d-df97-4652-a8ad-b5474f15eff6" />
+
 **[⬇️ Download Latest Release](https://github.com/Akhouri-Anmol-Kumar/APIC/releases/download/APIC/APIC.zip)** &nbsp;•&nbsp; **[⭐ Star this Repo](#)** &nbsp;•&nbsp; **[🐛 Report a Bug](../../issues)**
 
 </div>
