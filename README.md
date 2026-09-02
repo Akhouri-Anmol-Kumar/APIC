@@ -29,8 +29,6 @@
 
 <p align="center"><i>Real-time walkthrough — no cuts, no cloud, just APIC running locally.</i></p>
 
-> 📌 **Note for repo owner:** GitHub also supports native `.mp4` embeds at full quality. Drag your `Screen_Recording.mp4` directly into this README file in the GitHub web editor (or into a new Issue, then copy the generated link) — GitHub will host it and give you a `user-images.githubusercontent.com` URL. Paste that URL on its own line and it renders as a real inline video player, better quality than a GIF.
-
 ---
 
 <div align="center">
